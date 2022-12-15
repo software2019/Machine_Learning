@@ -9,6 +9,7 @@
 
 ## STEPS  
 
+
 1. Import the Data: in a csv file   
 2. Clean Data : such as removing duplicate data becasue duplicated data will not fit into the model as it will have a bad pattern of data and produces a wrong results  
 3. Split the Data into Training / Test Sets: 80% for training and 20% for testing such as.    
